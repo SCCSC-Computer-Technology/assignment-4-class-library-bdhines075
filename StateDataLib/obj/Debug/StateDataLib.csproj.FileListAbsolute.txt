@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\StateDataLib\bin\Debug\StateDataLib.dll
+C:\Users\User\source\repos\StateDataLib\bin\Debug\StateDataLib.pdb
+C:\Users\User\source\repos\StateDataLib\obj\Debug\StateDataLib.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\StateDataLib\obj\Debug\StateDataLib.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StateDataLib\obj\Debug\StateDataLib.dll
+C:\Users\User\source\repos\StateDataLib\obj\Debug\StateDataLib.pdb
