@@ -1,0 +1,7 @@
+Looking at this solution I see the library itself in Visual Studio is set up correctly. When looking at 
+the code the class1 it is set up with appropriate properties. When looking at the code in DataMngr class 
+it looks well set up too(not needing constructors bec it is using lists in the methods, etc). I like the 
+use of the methods in DataMngr class, they would definitely save a lot of room in a form’s .cs code. I 
+like all the extra comments you added to help explain how DataMngr is working. The only things in this 
+solution I would have liked to see is the class1 renamed State in the solution explorer and a comment 
+section for the name, class, and assignment, somewhere to help clarify whose code it is (just in case).
