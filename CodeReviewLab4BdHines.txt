@@ -1,0 +1,11 @@
+Q1 - Is the code generally readable and well-documented?
+A1 – Yes, the code is generally readable and easy to follow. It is not overloaded with comments, but it is laid out in a way that makes sense and I could understand what each part was doing. The State class was simple and clear, and the DataMngr class was organized pretty well too. I think a little more documentation could help, but overall it was readable.
+
+Q2 – Did you find any software defects?
+A2- I did not notice any huge defects, but I did see a couple things that could maybe be improved. One thing is the catch blocks only write the error to the console, which may not help much depending on how the program is being used. Also using SELECT * works, but it can be a little risky if the database changes later. So nothing major stood out, just a few things that could maybe be cleaned up.
+
+Q3 - What was one way that their solution differed from yours?
+A3 – Their solution differed from mine because they used a DataMngr class that directly handled the database connection and returned a list of State objects. Mine was a little different in how I separated out the work and called methods for sorting and stats. Their setup felt more straightforward with just getting all states and getting one by name.
+
+Q4 – Do you have any other constructive comments for the author?
+A4 – I would say maybe add a little more commenting and maybe be a little more specific in the SQL queries instead of using SELECT *. Other than that, I thought it was clean and pretty easy to understand. It looked like a solid start for a class library.
