@@ -1,0 +1,17 @@
+Is the code generally readable and
+well-documented?
+Yes, comments were used to explain each function clearly
+and the code is organized into blocks.
+
+Did you find any software defects?
+I did not find any errors in the program.
+
+What was one way that their solution
+differed from yours?
+The Data Manager where they used statements to
+open connections to the database
+to retrieve the information.
+
+Do you have any other constructive
+comments for the author?
+I don't have anything else to add, good job overall!
